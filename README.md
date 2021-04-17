@@ -1,2 +1,1 @@
 # Praktika.Parshin
-praktika
