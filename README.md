@@ -1,1 +1,1 @@
-# Praktika.Parshin
+# StudyMake
